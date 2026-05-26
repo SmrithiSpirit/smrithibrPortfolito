@@ -399,7 +399,7 @@ export default function CaseStudyPocketly() {
           <div className="grid sm:grid-cols-3 gap-4">
             {[
               { label: 'UX Flow', sub: 'Google Stitch', href: 'https://stitch.withgoogle.com/preview/10986574984315303163?node-id=74e25b6467da402c976402c829e31504', icon: ExternalLink },
-              { label: 'Live Prototype', sub: 'Lovable', href: 'https://id-preview--8dc85838-0c9f-4ab4-addc-f0ea18200627.lovable.app/', icon: Bot },
+              { label: 'Live Prototype', sub: 'Lovable', href: 'https://wise-way-save.lovable.app', icon: Bot },
               { label: 'Backend Workflows', sub: 'n8n', href: 'https://smrithirohit.app.n8n.cloud/projects/DlSkZhensFqfjsKq/workflows', icon: Zap },
             ].map(({ label, sub, href, icon: Icon }) => (
               <a key={label} href={href} target="_blank" rel="noopener noreferrer" className="glass-card p-5 flex flex-col items-center text-center gap-3 group hover:-translate-y-1 transition-transform duration-300">
