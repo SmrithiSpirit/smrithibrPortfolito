@@ -421,7 +421,7 @@ export default function CaseStudyPocketly() {
       <footer className="py-12 px-4 md:px-8 border-t border-white/5">
         <div className="container mx-auto text-center">
           <p className="text-muted-foreground">
-            Case Study by <span className="text-foreground font-medium">Smrithi B Ravikumar</span>
+            Case Study by <span className="text-foreground font-medium">Smrithi B Ravikumar123</span>
           </p>
           <Link to="/#contact" className="inline-block mt-4 text-primary hover:underline">
             Get in touch to discuss this project →
